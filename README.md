@@ -3,9 +3,9 @@
 
 ## 👤 Student Details
 
-* **Name:** [Your Name]
-* **Registration Number:** [Your Reg No.]
-* **Branch:** [Your Branch]
+* **Name:** Prithvi Sikarwar
+* **Registration Number:** 25BAI10041
+* **Branch:** CSE with spec. in AI & ML
 * **Year:** 1st Year B.Tech
 
 ---
@@ -54,7 +54,7 @@ Developed a professional online presence using platforms like GitHub, LinkedIn, 
 
 Completed a beginner-level coding challenge on HackerRank and created a Google Form quiz to demonstrate collaboration and data collection using Google Workspace.
 
-👉 **Google Form Link:** [Paste Your Form Link Here]
+👉 **Google Form Link:** https://docs.google.com/forms/d/e/1FAIpQLSfgrUDVBUz79dlXp8KMLyaFQnD4ODmMTzo1c4JYFN3HiOQSqg/viewform?usp=dialog
 
 ---
 
